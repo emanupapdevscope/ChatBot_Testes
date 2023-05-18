@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DevScopeWebChatReact'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B347088C9F214DC0886B5B99E8AC0FAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE57D0434A9C44D4876F4EC43820641E }}
           package: .
